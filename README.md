@@ -1,4 +1,4 @@
-[![matlab](https://img.shields.io/badge/matlab-2021a-3776AB.svg?style=flat&logo=matlab&logoColor=white)]([https://www.python.org](https://it.mathworks.com/))
+[![matlab](https://img.shields.io/badge/matlab-2021a-3776AB.svg?style=flat&logo=matlab&logoColor=white)](https://it.mathworks.com/)
 
 # Automatic Camera Calibration and Radial Distortion Compensation
 
